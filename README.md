@@ -25,6 +25,17 @@ The main objective of this project is to analyze business sales data and present
 - Customer Analysis
 - Interactive Slicers and Filters
 - Key Business Insights
+- ## 🔍 Key Insights
+- Identified the top-performing products based on sales.
+- Analyzed monthly sales trends to understand business performance over time.
+- Compared sales and profit to evaluate overall performance.
+- Used interactive slicers to analyze the data efficiently.
+
+## 💡 Business Recommendations
+- Focus more on high-performing products to increase overall revenue.
+- Monitor low-performing products and improve their sales strategy.
+- Use monthly sales trends to plan future sales and promotional activities.
+- Regularly track sales and profit KPIs for better business decisions.
 
 ## 📷 Dashboard Preview
 The dashboard screenshot is included in this repository.
