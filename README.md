@@ -28,6 +28,7 @@ The main objective of this project is to analyze business sales data and present
 
 ## 📷 Dashboard Preview
 The dashboard screenshot is included in this repository.
+![Business Sales Performance Dashboard](Screenshot%202026-10-26%20182934.png)
 
 ## 📂 Project Files
 - Power BI Dashboard (`.pbix`)
